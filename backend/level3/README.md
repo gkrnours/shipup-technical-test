@@ -5,7 +5,7 @@ For simplicity sake, the distance is taken from country to country.
 
 ## New model: 
 
-Carriers add one day on their delivery promise for every [oversea delay] kms separing the origin and delivery country. Oversea delay caries by carrier.
+Carriers add one day on their delivery promise for every [oversea delay] kms separing the origin and delivery country. Oversea delay varies by carrier.
 
 e.g. Colissimo normally ships in 3 buisiness days, but a package from France to Japan will be delivered in 6 business days since Japan is 9500km away from France and Colissimo distance treshold is 3000km 
 
